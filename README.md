@@ -7,7 +7,7 @@ An end-to-end Pneumonia detection in chest X-ray images with PyTorch on Amazon S
 ## Evaluation
 
 ### Confusion Matrix
-<img src="confusion-mat.jpg">
+<img src="confusion-img.jpg">
 
 ### Metrics
 <img src="metrics-outcome.jpg">
