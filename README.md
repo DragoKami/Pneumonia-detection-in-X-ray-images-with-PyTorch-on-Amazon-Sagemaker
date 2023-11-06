@@ -2,13 +2,13 @@
 An end-to-end Pneumonia detection in chest X-ray images with PyTorch on Amazon Sagemaker
 
 ## Subset of images for both class from Dataset
-<img src="subse-img.png">
+<img src="subset-img.jpg">
 
 ## Evaluation
 
 ### Confusion Matrix
-<img src="confusion-mat.png">
+<img src="confusion-mat.jpg">
 
 ### Metrics
-<img src="metrics-outcome.png">
+<img src="metrics-outcome.jpg">
 
